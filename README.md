@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @kevin38424 - Kevin PARK-Lee
+- 👋 Hi, I’m @kevin38424 - Kevin Park-Lee
 - 👀 I’m interested in solving puzzles and technical challenges.
 - 🌱 I’m currently learning JavaScript, React, Node.js, and Java. 
 - 💞️ I’m looking to collaborate on webApp
